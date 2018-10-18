@@ -1,0 +1,5 @@
+/home/ilker/Desktop/reader code/csharp_socket/CSharpSocket/CSharpSocket/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ilker/Desktop/reader code/csharp_socket/CSharpSocket/CSharpSocket/bin/Debug/CSharpSocket.exe.mdb
+/home/ilker/Desktop/reader code/csharp_socket/CSharpSocket/CSharpSocket/bin/Debug/CSharpSocket.exe
+/home/ilker/Desktop/reader code/csharp_socket/CSharpSocket/CSharpSocket/obj/x86/Debug/CSharpSocket.exe
+/home/ilker/Desktop/reader code/csharp_socket/CSharpSocket/CSharpSocket/obj/x86/Debug/CSharpSocket.exe.mdb
